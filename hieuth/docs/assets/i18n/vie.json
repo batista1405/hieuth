@@ -1,0 +1,225 @@
+{
+    "Header.Item1": "Về tôi",
+    "Header.Item2": "Kinh nghiệm",
+    "Header.Item3": "Dự án",
+    "Header.Item4": "Liên hệ",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "HieuTH_CV.pdf",
+    "Banner.Pretitle": "Xin chào! Tôi là",
+    "Banner.Description": "Tôi đã có <span class='underline'>7 năm kinh nghiệm</span> trong  triển khai, phát triển hệ thống, giao tiếp và giải pháp kỹ thuật cho các hệ thống bán lẻ hàng tiêu dùng nhanh (FMCG) như các siêu thị, cửa hàng tiện lợi, cửa hàng thực phẩm. Tôi thích viết, cải tiến code với tiêu chí sạch, có thể tái sử dụng và có thể mở rộng với các ngôn ngữ <span class='underline'>Angular, .NET Core, ASP .NET</span> và một ít ngôn ngữ <span class='underline'>Python</span>.",
+    "Banner.ActionBtn": "Liên hệ tôi",
+    "AboutMe.Title": "Về tôi",
+    "AboutMe.Paragraphs": [
+        "Trong 7 năm kinh nghiệm của tôi với <span class='underline'>3 năm triển khai</span> và <span class='underline'>4 năm lập trình</span>, tôi luôn tìm tòi học hỏi mỗi ngày. Tôi đã từng viết test case cho unit testing và test phần mềm, <span class='underline'>thực hiện CI</span>, và phát triển tính năng, phần mềm với <span class='underline'>NET. Core, ASP .NET, Angular, indexedDB and SQL Server</span>. Cùng với team của mình phát triển và đưa tính năng đến người dùng với mức hoàn thiện nhất và vẫn đảm bảo tính logic của hệ thống.",
+        "Kỹ năng của tôi cũng bao gồm cả việc triển khai cải tiến hệ thống, tối ưu tính năng, site cùng với đó là chuẩn hóa pattern và gợi ý, thực hiện các ý tưởng đóng góp chung vào dự án đang phụ trách.",
+        "Các công nghệ mà tôi đã học và làm (có thể mở rộng nếu có cơ hội):"
+    ],
+    "Experience.Title": "Kinh nghiệm",
+    "Experience.Jobs": [
+        {
+            "Tab": "PowersoftVN",
+            "Title": "Development vice manager",
+            "Date": "December 2021 - April 2023",
+            "Description": [
+                "Phát triển và bảo trì ứng dụng web sử dụng Angular, Node.js, .NET Core và SQLServer, với mục tiêu cải thiện trải nghiệm người dùng và tăng hiệu suất.",
+                "Thiết kế và triển khai các RESTful APIs hỗ trợ nhiều ứng dụng trong hệ sinh thái, sử dụng .NET Core.",
+                "Xây dựng API trung gian gửi nhận thông báo đến các client trong hệ thống sử dụng WebSockets (SignalR), cải thiện tính tức thời và khả năng phối hợp giữa các phần mềm trong hệ thống.",
+                "Nghiên cứu và  triển khai CI/CD và backup thường nhật cho hệ thống code.",
+                "Lead team 4 nhân sự maintain hệ thống C#, Winform, SQL Server và team 2 nhân sự phát triển mới với NET Core, Angular, NodeJS, SQL Server.",
+                "Báo cáo tình hình các project và vấn đề liên quan đến source code cho cấp lãnh đạo."
+            ]
+        },
+        
+        {
+            "Tab": "PowersoftVN",
+            "Title": "R&D team leader",
+            "Date": "July 2019 - November 2021",
+            "Description": [
+                "Nghiên cứu công nghệ đáp ứng các yêu cầu của manager về sản phẩm mới.",
+                "Thiết kế cấu trúc source code sản phẩm mới.",
+                "Phân công các task cho team member.",
+                "Kiểm soát các code từ member, đảm bảo tính nhất quán và logic",
+                "Cải thiện hiệu suất sản phẩm."
+            ]
+        },
+        {
+            "Tab": "PowersoftVN",
+            "Title": "Deployment staff",
+            "Date": "July 2016 - Jun 2019",
+            "Description": [
+                "Triển khai phần mềm",
+                "Đào tạo sử dụng phần mềm cho khách hàng",
+                "Hỗ trợ trong quá trình khai trương có sử dụng phần mềm",
+                "Hỗ trợ xử lý số liệu trong quá trình vận hành."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Các project đã tham gia",
+    "FeatureProjects.Label": "Project chính",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Triển khai dự án Co.opFood nhượng quyền",
+            "Description": "Interface dữ liệu từ hệ thống master và triển khai phần mềm bán hàng, xây dựng hệ thống đảm bảo dữ liệu khi interface.",
+            "imgs": [
+                "assets/images/cfnq/image1.jpg",
+                "assets/images/cfnq/image2.jpg",
+                "assets/images/cfnq/image3.jpg",
+                "assets/images/cfnq/image4.jpg"
+            ],
+            "Technologies": [
+                "Winform",
+                "SQL Server",
+                "SSIS"
+            ]
+        },
+        {
+            "Title": "Triển khai dự án GS25 Việt Nam ",
+            "Description": "Workshop với team GS25 Hàn Quốc để chọn lọc tính năng, ghi nhận các yêu cầu để đáp ứng mô hình 24h. Test các tính năng sau khi được phát triển.",
+            "imgs": [
+                "assets/images/gs25/image1.jpg",
+                "assets/images/gs25/image2.jpg"
+            ],
+            "Technologies": [
+                "Winform",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "Reporting Tool",
+            "Description": "Phát triển web thiết kế và xem các báo cáo tổng hợp dựa trên Devexpress Dashboard và SQL Server cùng với OLAP để có các báo cáo đa chiều và xuyên suốt theo thời gian",
+            "imgs": [
+                "assets/images/ToposROT/image1.jpg"
+            ],
+            "Technologies": [
+                "ASP .NET",
+                "Devexpress",
+                "OLAP",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "TOPOS version mới",
+            "Description": "Thiết kế UI mới cho phần mềm bán hàng trên nền tảng công nghệ <span class='underline'>WPF</span> của Microsoft.",
+            "imgs": [
+                "assets/images/newversion/image1.jpg"
+            ],         
+            "Technologies": [
+                "WPF",
+                "XAML"
+            ]
+        },
+        {
+            "Title": "Ứng dụng nhận diện khuôn mặt",
+            "Description": "Phát triển ứng dụng sử dụng <span class='underline'>Python</span> và <span class='underline'>InfluxDB</span> cùng thiết bị NCS2 của Intel để nhận diện khuôn mặt khách hàng thành viên, nhận diện giới tính, tuổi thông qua camera.",
+            "imgs": [
+                "assets/images/ncs/image1.jpg",
+                "assets/images/ncs/image2.jpg"
+            ],         
+            "Technologies": [
+                "Python",
+                "InfluxDB",
+                "Machine Learning"
+            ]
+        },
+        {
+            "Title": "TOPOS Go",
+            "Description": "Phát triển webapp bán hàng trên thiết bị mobile sử dụng <span class='underline'>Angular</span> và <span class='underline'>SPA</span> đảm bảo hoạt động ứng dụng trong các tình trạng mạng khác nhau.",
+            "imgs": [
+                "assets/images/ToposGo/image1.jpg",
+                "assets/images/ToposGo/image2.jpg",
+                "assets/images/ToposGo/image3.jpg"
+            ],         
+            "Technologies": [
+                "Angular",
+                "NodeJS",
+                "TypeScript",
+                ".NET Core",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "Zalo Integrated Notification",
+            "Description": "Phát triển API và service thực hiện việc tổng kết dữ liệu bán hàng cuối ngày hoặc theo tương tác trên Zalo và gửi theo dạng tin nhắn báo cáo hoặc file pdf.",
+            "imgs": [
+                "assets/images/ZIN/image1.jpg",
+                "assets/images/ZIN/image2.jpg",
+                "assets/images/ZIN/image3.jpg"
+            ],         
+            "Technologies": [
+                ".NET Core",
+                "Window Service",
+                "SQL Server"
+            ]
+        },
+        {
+            "Title": "Payment Gateway",
+            "Description": "Phát triển API kết nối các phương thức thanh toán online với các client của hệ thống POS: GrabPay, ZaloPay, ShopeePay, VNPay, Momo và các kênh về Voucher: GotIt, Urbox.",
+            "imgs": [
+                "assets/images/PG/image1.png",
+                "assets/images/PG/image2.jpg"
+            ],         
+            "Technologies": [
+                ".NET Core",
+                "Window Service",
+                "SQL Server"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Covid Tracker",
+            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
+            "ghLink": "https://github.com/mufeez1/carona19-tracker",
+            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Technologies": [
+                "Angular",
+                "RxJs",
+                "API",
+                "Bootstrap"
+            ]
+        },
+        {
+            "Title": "Lets Chat",
+            "Description": "A real-time chat application. Another fun side project :)",
+            "ghLink": "https://github.com/mufeez1/lets-chat",
+            "Technologies": [
+                "React",
+                "SASS",
+                "Socket.io",
+                "NodeJS",
+                "ExpressJS",
+                "Firebase"
+            ]
+        },
+        {
+            "Title": "Quiz App",
+            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
+            "ghLink": "https://github.com/mufeez1/quizapp",
+            "demoLink": "https://github.com/mufeez1/quizapp",
+            "Technologies": [
+                "React",
+                "SASS",
+                "TypeScript",
+                "API",
+                "3rd Party Library"
+            ]
+        },
+        {
+            "Title": "JWT Integration",
+            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
+            "ghLink": "https://github.com/mufeez1/node-jwt",
+            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "Technologies": [
+                "React",
+                "JWT",
+                "ExpressJS",
+                "POSTGREESQL"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "Điều gì tiếp theo",
+    "Contact.Title": "Liên lạc với tôi!",
+    "Contact.Content": "Rất vui nếu nhận được thông tin từ bạn về các cơ hội mới. Gửi cho tôi thông tin, và tôi sẽ trả lời sớm nhất khi tôi nhận được thông tin của bạn.",
+    "Contact.Btn": "Xin chào"
+}
