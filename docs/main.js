@@ -1449,7 +1449,7 @@ class LanguageService {
     initLanguage() {
         this.translateService.addLangs(["en", "vie"]);
         let language = navigator.language || navigator.userLanguage;
-        language = "en";
+        language = "vie";
         this.translateService.setDefaultLang(language);
         // Change the URL without navigate:
         this.location.go(language);
