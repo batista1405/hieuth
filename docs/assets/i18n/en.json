@@ -4,7 +4,7 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "HieuTH_CV.pdf",
+    "Header.cvName": "HieuTH_CV_en.pdf",
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have <span class='underline'>7 years of experience</span> developing systems, interfaces, implements, and technological solutions for retail stores. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, .NET Core, ASP .NET</span> and sometimes in <span class='underline'>Python</span> .",
     "Banner.ActionBtn": "Get in touch",
@@ -21,12 +21,12 @@
             "Title": "Development vice manager",
             "Date": "December 2021 - April 2023",
             "Description": [
-                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
-                "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
-                "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
+                "Developed and maintained a web-based application using Angular, Node.js, and SQLServer, resulting in improved user experience and increased performance.",
+                "Designed and implemented RESTful APIs to support multiple applications, using .NET Core.",
+                "Built notification API using WebSockets (SignalR), increasing communication and collaboration among clients.",
                 "Implementation of continuous integration and daily backups.",
-                "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
-                "Planning meetings in reports."
+                "Leading a team of 4 people in the development and maintain using C#, Winform, SQL Server and team of 2 in development new product using NET Core, Angular, NodeJS, SQL Server.",
+                "Report progress of projects to Director."
             ]
         },
         
